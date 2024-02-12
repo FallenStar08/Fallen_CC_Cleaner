@@ -1,0 +1,1 @@
+MOD_INFO=ModInfo:new("Fall_CC_Cleaner","Fall_CC_Cleaner")
